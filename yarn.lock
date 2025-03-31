@@ -2,6 +2,18 @@
 # yarn lockfile v1
 
 
+"@fullstory/browser@^2.0.6":
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/@fullstory/browser/-/browser-2.0.6.tgz#f34825803d8f99afc9bd812ebe96d29b3413591b"
+  integrity sha512-5cbZldOkb+KhgAFRQ5iMEoJR+TgKhCBRFiZN3PMHr+++EmHqprtNMyEAGppe02GUkASV4+7s4txghq6nkrRj8Q==
+  dependencies:
+    "@fullstory/snippet" "2.0.5"
+
+"@fullstory/snippet@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@fullstory/snippet/-/snippet-2.0.5.tgz#e00bfb13d95ea9638890a0940b1825c55ab987c5"
+  integrity sha512-33GJ/QhzZNk4q2B6LhU6Siha68NalrkPxdOaqrVZbUp0UyNYf3qHmU3ATTe51Vk/aM2J34ylrItJ7u94PQ16sA==
+
 ansi-styles@^4.1.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-4.3.0.tgz#edd803628ae71c04c85ae7a0906edad34b648937"
